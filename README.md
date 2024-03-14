@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jennaPearson
-- 👀 I’m a current undergraduate student at Virginia Tech
 - 💞️ I’m looking to collaborate on interesting open-source projects
 - 📫 You can reach me on linkedin: https://www.linkedin.com/in/jennapearson5/
 
